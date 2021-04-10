@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>A841350E-D3A6-4253-8ED2-B99A775A933A</title>
+    <defs>
+        <path d="M10,2 L3,2 C1.34314575,2 0,3.34314575 0,5 L0,27 C0,28.6568542 1.34314575,30 3,30 L29,30 C30.6568542,30 32,28.6568542 32,27 L32,9 L31.9949073,8.82372721 C31.9036609,7.24891996 30.5976809,6 29,6 L14.5,6 L12.4,3.2 C11.8334369,2.44458247 10.9442719,2 10,2 Z M3,4 L10,4 C10.3147573,4 10.6111456,4.14819416 10.8,4.4 L13.2,7.6 C13.3888544,7.85180584 13.6852427,8 14,8 L29,8 C29.5522847,8 30,8.44771525 30,9 L30,27 C30,27.5522847 29.5522847,28 29,28 L3,28 C2.44771525,28 2,27.5522847 2,27 L2,5 C2,4.44771525 2.44771525,4 3,4 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons/Folders/Folder">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Icon" fill="#3C3C3C" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

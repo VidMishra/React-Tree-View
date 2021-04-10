@@ -1,0 +1,33 @@
+.folder {
+  padding-left: 20px;
+
+  .folder-row {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+
+    .dir-style {
+      padding-left: 5px;
+      display: flex;
+      align-items: center;
+      height: 32px;
+      width: 168px;
+      color: #3c3c3c;
+      font-family: Barlow;
+      font-size: 14px;
+      letter-spacing: 0;
+      line-height: 20px;
+      cursor: pointer;
+
+      &:hover {
+        background-color: #d3ecff;
+      }
+    }
+  }
+
+  .collapse {
+    height: max-content;
+    overflow: hidden;
+    transition: 0.3s ease-in-out;
+  }
+}
